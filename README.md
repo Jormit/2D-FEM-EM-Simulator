@@ -1,1 +1,1 @@
-# EM-FEM-Simulator
+# 2D FEM EM Simulator
